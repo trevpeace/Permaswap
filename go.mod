@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/cockroachdb/apd/v3 v3.2.1
-	github.com/ethereum/go-ethereum v1.13.10
+	github.com/ethereum/go-ethereum v1.13.15
 	github.com/everFinance/goar v1.5.7
 	github.com/everFinance/goether v1.1.9
 	github.com/everVision/everpay-kits v0.0.4-0.20240108075839-c53030017f9b
@@ -91,7 +91,7 @@ require (
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa // indirect
 	golang.org/x/net v0.19.0 // indirect
 	golang.org/x/sync v0.5.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.16.0 // indirect
 	golang.org/x/term v0.15.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
